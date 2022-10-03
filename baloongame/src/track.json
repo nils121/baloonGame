@@ -1,0 +1,32 @@
+[
+    {
+    "color": "orange",
+    "index": 0,
+    "isPopped": false
+},
+{
+    "color": "yellow",
+    "index": 1,
+    "isPopped": false
+},
+{
+    "color": "green",
+    "index": 2,
+    "isPopped": false
+},
+{
+    "color": "red",
+    "index": 3,
+    "isPopped": false
+},
+{
+    "color": "blue",
+    "index": 4,
+    "isPopped": false
+},
+{
+    "color": "cyan",
+    "index": 5,
+    "isPopped": false
+}
+]
